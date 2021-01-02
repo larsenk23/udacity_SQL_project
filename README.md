@@ -7,3 +7,6 @@ This project was created as part of the Udacity programming Nanodegree. Its purp
 
 https://www.postgresqltutorial.com/postgresql-sample-database/
 dvdrental.tar
+postgresql_sample_database_diagram.pdf
+SQL_Project.pdf
+SQL_Queries.txt
